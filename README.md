@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-## demo- https://app.netlify.com/sites/distracted-newton-2f1091/overview
+## demo- https://distracted-newton-2f1091.netlify.app/marvel
 In the project directory, you can run:
 
 ### `npm start`
